@@ -42,5 +42,5 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 -   [ ] Do new endpoints make the correct permissions checks?
 -   [ ] Does the PR describe Acceptance Criteria? And does this ticket?
 -   [ ] New endpoints have been documented
--   [ ] Unit tests covering logic which could cause code to fail, especially when failure could go - [ ] undetected.
+-   [ ] Unit tests covering logic which could cause code to fail, especially when failure could go undetected.
 -   [ ] Integration tests where appropriate
