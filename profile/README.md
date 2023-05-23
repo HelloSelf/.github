@@ -1,6 +1,6 @@
 ## Your self Better, Every Self Better
 
-![a picture of the helloself logo and a squiggly line](./../assets/banner.png)
+![a picture of the helloself logo and a squiggly line](https://github.com/helloself/.github/blob/main/assets/banner.png)
 
 We're the UK’s trusted online therapy and life coaching service. Building a better way to treat and approach mental health.
 
