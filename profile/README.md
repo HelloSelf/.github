@@ -1,4 +1,4 @@
-## Your self Better, Ever Self Better
+## Your self Better, Every Self Better
 
 ![a picture of the helloself logo and a squiggly line](./../assets/banner.png)
 
