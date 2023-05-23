@@ -1,4 +1,5 @@
-## Your self Better, Every Self Better
+## Your Self Better, Every Self Better
+*Therapy & Coaching to make your Self Better*
 
 ![a picture of the helloself logo and a squiggly line](https://github.com/helloself/.github/blob/main/assets/banner.png)
 
