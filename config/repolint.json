@@ -22,15 +22,6 @@
                     "language=golang"
                 ]
             },
-            "fix": {
-                "type": "file-create",
-                "options": {
-                    "file": "CODEOWNERS",
-                    "text": {
-                        "url": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners"
-                    }
-                }
-            },
             "policyInfo": "GitHub requires a CODEOWNERS file in all projects. This enables GitHub to contact the maintainers in the event it is necessary.",
             "policyUrl": "https://github.com/github/open-source/blob/main/policies/release.md"
         },
