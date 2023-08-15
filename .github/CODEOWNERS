@@ -1,0 +1,13 @@
+*.scala @HelloSelf/backend
+*.java @HelloSelf/backend
+
+*.js @HelloSelf/frontend
+*.ts @HelloSelf/frontend
+*.tsx @HelloSelf/frontend
+
+.github/ @HelloSelf/devops @HelloSelf/backend
+Jenkinsfile @HelloSelf/devops @HelloSelf/backend
+*.tf @HelloSelf/devops
+*.tfvars @HelloSelf/devops
+*.tfbackend @HelloSelf/devops
+*.go @HelloSelf/devops
